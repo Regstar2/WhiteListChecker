@@ -10,6 +10,8 @@ Android-приложение для проверки доступности мо
 [![Android](https://img.shields.io/badge/Android-minSdk%2026-green)](app/build.gradle.kts)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](LICENSE)
 
+[🌐 Страница проекта](https://regstar2.github.io/projects/white-list-checker/ru/) · [English website](https://regstar2.github.io/projects/white-list-checker/)
+
 [Быстрый старт](#быстрый-старт) · [Скриншоты](#скриншоты) · [Документация](#документация) · [Релизы](https://github.com/Regstar2/white-list-checker/releases)
 
 </div>
